@@ -1,5 +1,5 @@
 # Кодифікатор адміністративно-територіальних одиниць та територій територіальних громад
-У репозиторії представлені файли (JSON, CSV, XLS) які містять дані з [кодифікатора](https://www.minregion.gov.ua/napryamki-diyalnosti/rozvytok-mistsevoho-samovryaduvannya/administratyvno/kodyfikator-administratyvno-terytorialnyh-odynycz-ta-terytorij-terytorialnyh-gromad/) адміністративно-територіальних одиниць та територій територіальних громад (Катоттг) за `23.07.2021`. 
+У репозиторії представлені файли (JSON, CSV, XLS) які містять дані з [кодифікатора](https://www.minregion.gov.ua/napryamki-diyalnosti/rozvytok-mistsevoho-samovryaduvannya/administratyvno/kodyfikator-administratyvno-terytorialnyh-odynycz-ta-terytorij-terytorialnyh-gromad/) адміністративно-територіальних одиниць та територій територіальних громад (Катоттг) за `16.12.2021`. 
 #### Розтлумачення скорочених назв "стовпців":
 * region - номер області
 * reg_name - назва області
