@@ -17,36 +17,36 @@
 ### JSON файл має наступну структуру:
 ```json
 {
-	"id" : 27034,
-	"region" : 65,
-	"region_name" : "Херсонська область",
-	"distr" : 8,
-	"distr_name" : "Скадовський район",
-	"hrom" : 3,
-	"hrom_name" : "Голопристанська територіальна громада",
-	"municip" : 10,
+	"id" : 17375,
+	"region" : 48,
+	"region_name" : "Миколаївська область",
+	"distr" : 6,
+	"distr_name" : "Миколаївський район",
+	"hrom" : 5,
+	"hrom_name" : "Воскресенська територіальна громада",
+	"municip" : 8,
 	"municip_name" : null,
 	"distr_city" : null,
-	"div_num" : 68268,
-	"div_type" : "село",
-	"div_name" : "Малі Копані",
-	"div_full_name" : "село Малі Копані"
+	"katotth" : "UA48060050080014262",
+	"div_type" : "селище",
+	"div_name" : "Горохівка",
+	"div_full_name" : "селище Горохівка"
 },
 {
-	"id" : 31749,
-	"region" : 80,
-	"region_name" : "Київ",
-	"distr" : null,
-	"distr_name" : null,
-	"hrom" : null,
-	"hrom_name" : null,
-	"municip" : null,
-	"municip_name" : "Київ",
-	"distr_city" : 9,
-	"div_num" : 80793,
-	"div_type" : "район у місті",
-	"div_name" : "Солом’янський",
-	"div_full_name" : "Солом’янський район у місті Київ"
+	"id" : 17376,
+	"region" : 48,
+	"region_name" : "Миколаївська область",
+	"distr" : 6,
+	"distr_name" : "Миколаївський район",
+	"hrom" : 5,
+	"hrom_name" : "Воскресенська територіальна громада",
+	"municip" : 9,
+	"municip_name" : null,
+	"distr_city" : null,
+	"katotth" : "UA48060050090034168",
+	"div_type" : "селище",
+	"div_name" : "Грейгове",
+	"div_full_name" : "селище Грейгове"
 }
 ```
 ### XLS файл виглядає так:
